@@ -40,7 +40,6 @@ Acesse: `https://localhost:5001/swagger`
 ```json
 {
   "username": "fulano",
-  "email": "fulano@email.com",
   "password": "suaSenha123"
 }
 ```
@@ -51,7 +50,7 @@ Acesse: `https://localhost:5001/swagger`
 
 ```json
 {
-  "email": "fulano@email.com",
+  "username": "fulano",
   "password": "suaSenha123"
 }
 ```
